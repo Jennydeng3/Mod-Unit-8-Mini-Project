@@ -1,0 +1,44 @@
+body {
+    background-color:  #669999;
+    text-align: center;
+    color: #6600cc;
+    padding: 100px;
+    border: 10px dotted #ffccff;
+  
+ font-family: 'Send Flowers', cursive;
+    font-family: 'Syne Mono', monospace;}
+
+
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+button {
+    border: 5px solid #ffcccc;
+    background-color: #ff9999;
+   
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+img{
+    border: 5px solid yellow;
+    width:200px;
+    height:200px;
+}
+.pop-icon {
+    width: 200px;
+    border:none;
+}
